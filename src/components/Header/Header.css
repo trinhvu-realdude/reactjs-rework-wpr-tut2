@@ -1,0 +1,17 @@
+.header {
+    background-image: url("../../images/header.jpg");
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 41px;
+    font-weight: normal;
+    max-width: 780px;
+    text-align: center;
+    color: white;
+}
